@@ -1,2 +1,2 @@
-# p5
-Collection of my completed p5.js sketches
+# p5.js
+A collection of my completed p5.js sketches
